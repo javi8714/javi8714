@@ -15,7 +15,7 @@
 ✍️ &nbsp;In my free time, I dedicate Graphic Design and reading books 📖 as hobbies and side activities.\
 💬 &nbsp;Please do not hesitate to contact me for a consultation and simply to have an interesting discussion of any topic.\
 ✉️ &nbsp;You can shoot me an  email at javier_leandr78@hotmail.com! I'll try to respond as soon as I can.\
-⚡ &nbsp;Fun fact: I 💖 to code 24x7.\
+⚡ &nbsp;Fun fact: I 💖 to code 24x7.
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
