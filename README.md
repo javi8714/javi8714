@@ -82,6 +82,15 @@
   <a href="https://github.com/javi8714/"><img src="https://img.shields.io/github/last-commit/javi8714/javi8714?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+-----
+
 ### Thank you for visiting my profile 🤓 
 
 Credits: [Javier Leandro Moreno](https://github.com/AVS1508)
