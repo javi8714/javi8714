@@ -65,6 +65,6 @@
 
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Credits: [Javier Leandro Moreno](https://github.com/AVS1508)
 
 Last Edited on: 10/10/2024
