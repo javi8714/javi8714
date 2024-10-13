@@ -80,8 +80,8 @@
   <a href="https://github.com/javi8714/"><img src="https://img.shields.io/github/last-commit/javi8714/javi8714?style=flat-square?color=red&label=Last%20Updated%20"/></a>
 </p>
 
-Credits: [Javier Leandro Moreno](https://github.com/AVS1508)
-
 ### Thank you for visiting my profile 🤓 
+
+Credits: [Javier Leandro Moreno](https://github.com/AVS1508)
 
 Last Edited on: 10/10/2024
