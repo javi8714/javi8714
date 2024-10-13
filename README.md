@@ -11,7 +11,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying CoderHouse Desarrollo Full-Stack in Argentina .\
-🌱 &nbsp;I'm on track for learning more about Diseño UX/UI, Systems Design, Android/IOS 📲 App and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Diseño UX/UI, Systems Design, Android Developers 📲 App and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I dedicate Graphic Design and reading books 📖 as hobbies and side activities.\
 💬 &nbsp;Please do not hesitate to contact me for a consultation and simply to have an interesting discussion of any topic.\
 ✉️ &nbsp;You can shoot me an  email at javier_leandr78@hotmail.com! I'll try to respond as soon as I can.\
