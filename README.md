@@ -55,7 +55,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/javier-leandro-moreno"><img src="https://img.shields.io/badge/-Javier%20Leandro%20Moreno-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/javierlm14_"><img src="https://img.shields.io/badge/-@javierlm14__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/javierlm14"><img src="https://img.shields.io/badge/-@javierlm14__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 
 
