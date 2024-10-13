@@ -13,7 +13,7 @@
 🎓 &nbsp;I'm currently studying CoderHouse Desarrollo Full-Stack.\
 🌱 &nbsp;I'm on track for learning more about Diseño UX/UI, Systems Design, Android/IOS App and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I dedicate Graphic Design and reading books as hobbies and side activities.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Please feel free to contact me for a consultation and just to have an interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at javier_leandr78@hotmail.com! I'll try to respond as soon as I can.\
 
 
